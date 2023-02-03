@@ -1,0 +1,41 @@
+.navBar {
+
+
+    position: sticky;
+    top: 0;
+    width: 98%;
+    height: 45px;
+    display: flex;
+    right: 0;
+    margin-left: 2%;
+  
+  }
+  .chat{
+    font-weight: 700;
+    font-size: 28px;
+  }
+ 
+  .search{
+    color: black;
+    font-size: 30px;
+    margin-left: 124px;
+    margin-top: 6px;
+  }
+  .chatIcon{
+    color: black;
+    font-size: 26px;
+    margin-left: 20px;
+    margin-top: 6px;
+  }
+  .music{
+    color: black;
+    font-size: 26px;
+    margin-left: 20px;
+    margin-top: 6px;
+  }
+  .setting{
+    color: black;
+    font-size: 26px;
+    margin-left: 20px;
+    margin-top: 6px;
+  }
